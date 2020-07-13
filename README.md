@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Faisal and I’m a hobbyist Full Stack Web Developer 👴🏼
+
+My areas of interest are: 
+
+- [Python](https://www.python.org/)/[Django](https://www.djangoproject.com/)
+- AWS cloud architecture
+- Docker
+
+📫 [DM me on Twitter](https://twitter.com/cloudnumber009).
