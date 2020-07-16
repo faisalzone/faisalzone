@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Faisal and I’m a hobbyist Full Stack Web Developer 👴🏼
+I’m a hobbyist Full Stack Web Developer 👴🏼
 
 My areas of interest are: 
 
