@@ -20,7 +20,7 @@ I’m a hobbyist Full Stack Web Developer 👴🏼
 My areas of interest are: 
 
 - [Python](https://www.python.org/)/[Django](https://www.djangoproject.com/)
-- AWS cloud architecture
-- Docker
+- [AWS](https://aws.amazon.com/) cloud architecture
+- [Docker](https://www.docker.com/)
 
 📫 [DM me on Twitter](https://twitter.com/cloudnumber009).
