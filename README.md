@@ -23,4 +23,4 @@ My areas of interest are:
 - [AWS](https://aws.amazon.com/) cloud architecture
 - [Docker](https://www.docker.com/)
 
-📫 [DM me on Twitter](https://twitter.com/cloudnumber009) | 🌐 [More info on faisalzone.github.io](https://faisalzone.github.io/)
+📫 [DM me on Twitter](https://twitter.com/cloudnumber009) | 🌐 [Info on GitHub Pages](https://faisalzone.github.io/)
