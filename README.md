@@ -19,9 +19,8 @@ I’m a hobbyist Full Stack Web Developer 👴🏼
 
 My areas of interest are: 
 
-- [Python](https://www.python.org/)/[Django](https://www.djangoproject.com/)
+- [Next.js](https://nextjs.org/) (Previously, [Python](https://www.python.org/)/[Django](https://www.djangoproject.com/), [Ruby on Rails](https://rubyonrails.org/))
 - [AWS](https://aws.amazon.com/) cloud architecture
-- [Docker](https://www.docker.com/)
 
 📫 [DM me on Twitter](https://twitter.com/cloudnumber009).
 
